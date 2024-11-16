@@ -3,15 +3,16 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f4f4f4;
+    background-color:rgba(34, 34, 34, 1);
     font-family: Arial, sans-serif;
+   
 }
 
 .calculator {
-    border: 1px solid #cccccc;
+    border: 1px solid #2f3141;
     border-radius: 10px;
     padding: 20px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(42, 61, 44);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -35,7 +36,7 @@ button {
     cursor: pointer;
     border: none;
     border-radius: 5px;
-    background-color: #0066ff;
+    background-color: #1a2736;
     color: rgb(204, 204, 204);
     transition: background-color 0.3s;
 }
